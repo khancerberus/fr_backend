@@ -1,0 +1,2 @@
+FLASK_APP=entry_point.py
+FLASK_DEBUG=True
