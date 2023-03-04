@@ -1,2 +1,3 @@
 FLASK_APP=entry_point.py
-FLASK_DEBUG=True
+APP_SETTINGS_MODULE=config.development
+SECRET_KEY=kjh1g23jytg12uy3guy12tg3yui1gh23uigh
