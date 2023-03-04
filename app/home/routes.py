@@ -1,3 +1,5 @@
+from app.home.models import TestModel
+
 from . import home_bp
 
 
